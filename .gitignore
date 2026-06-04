@@ -1,0 +1,40 @@
+
+
+# Keil MDK build outputs
+MDK-ARM/08_USART_HAL/
+MDK-ARM/*_build.log
+MDK-ARM/*.build_log.htm
+MDK-ARM/*.htm
+MDK-ARM/*.map
+MDK-ARM/*.lst
+MDK-ARM/*.lnp
+MDK-ARM/*.dep
+MDK-ARM/*.crf
+MDK-ARM/*.o
+MDK-ARM/*.d
+MDK-ARM/*.axf
+MDK-ARM/*.hex
+MDK-ARM/*.bin
+MDK-ARM/*.elf
+
+# Keil user/session files
+MDK-ARM/DebugConfig/
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvgui.*
+MDK-ARM/*.uvoptx
+MDK-ARM/*.uvopt
+MDK-ARM/JLinkLog.txt
+MDK-ARM/JLinkSettings.ini
+
+# Local editor settings
+MDK-ARM/.vscode/
+.vscode/
+
+# Common temporary files
+*.bak
+*.tmp
+*.log
+*.orig
+~$*
+Thumbs.db
+desktop.ini
